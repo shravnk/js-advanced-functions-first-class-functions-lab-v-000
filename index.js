@@ -2,6 +2,6 @@
 const returnFirstTwoDrivers = function (drivers) {
   return newArray = drivers.slice(0,2)
 }
-const returLastTwoDrivers = function (drivers) {
+const returnLastTwoDrivers = function (drivers) {
   return newArray = drivers.slice(-2)
 }
